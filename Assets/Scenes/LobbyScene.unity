@@ -813,7 +813,7 @@ PrefabInstance:
     - target: {fileID: 1842083397863765757, guid: 55745a908ad2e0543885950d53152c21, type: 3}
       propertyPath: rigidbody
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1256718012}
     - target: {fileID: 3974981401217699939, guid: 55745a908ad2e0543885950d53152c21, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.04876
